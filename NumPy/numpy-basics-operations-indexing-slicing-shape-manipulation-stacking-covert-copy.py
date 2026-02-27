@@ -1,3 +1,5 @@
+# NUMPY
+
 # importing
 import numpy as np
 
@@ -190,4 +192,5 @@ e = d.copy()                        # d arrayini e değişkenine kopyaladık
 print(e)
 
 f = d.copy()                       # d arrayini f değişkenine kopyaladık
+
 print(f)
